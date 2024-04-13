@@ -1,4 +1,4 @@
-# MyApi
+# Multithreading
 
 Autor: Krzysztof Maciejończyk
 
