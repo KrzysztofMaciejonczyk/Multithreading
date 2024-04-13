@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB3", "LAB3\LAB3.csproj", "{C0A202F8-0645-482C-A676-84B988029AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadVsParallelGUI", "ThreadVsParallelGUI\ThreadVsParallelGUI.csproj", "{2765B316-EF4D-4F39-988E-4F79275FDB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageParalleling", "ImageParalleling\ImageParalleling.csproj", "{60F33B87-485C-4055-B144-5D30F5C064DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{82174D2E-08E7-487E-A9F3-107AA98610D2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Pictures\Threads\BothConsole.PNG = ..\..\..\Pictures\Threads\BothConsole.PNG
+		..\..\..\Pictures\Threads\BothGUI.PNG = ..\..\..\Pictures\Threads\BothGUI.PNG
+		..\..\..\Pictures\Threads\ImageGUI.PNG = ..\..\..\Pictures\Threads\ImageGUI.PNG
+		..\..\..\Pictures\Threads\ParallelGUI.PNG = ..\..\..\Pictures\Threads\ParallelGUI.PNG
+		..\..\..\Pictures\Threads\ThreadGUI.PNG = ..\..\..\Pictures\Threads\ThreadGUI.PNG
+		..\..\..\Pictures\Threads\Tree.PNG = ..\..\..\Pictures\Threads\Tree.PNG
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A202F8-0645-482C-A676-84B988029AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A202F8-0645-482C-A676-84B988029AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A202F8-0645-482C-A676-84B988029AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A202F8-0645-482C-A676-84B988029AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2765B316-EF4D-4F39-988E-4F79275FDB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2765B316-EF4D-4F39-988E-4F79275FDB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2765B316-EF4D-4F39-988E-4F79275FDB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2765B316-EF4D-4F39-988E-4F79275FDB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F33B87-485C-4055-B144-5D30F5C064DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F33B87-485C-4055-B144-5D30F5C064DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F33B87-485C-4055-B144-5D30F5C064DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F33B87-485C-4055-B144-5D30F5C064DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB0DA503-1E8A-470B-9C16-686BC5E73125}
+	EndGlobalSection
+EndGlobal
